@@ -1,4 +1,10 @@
 package com.mygdx.game;
 
-public class SenderoSamurai {
+import com.badlogic.gdx.Game;
+
+public class SenderoSamurai extends Game {
+    @Override
+    public void create() {
+
+    }
 }
